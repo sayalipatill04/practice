@@ -4,6 +4,6 @@ public class A {
 
 	public void m1() {
 System.out.println("Git");
-		System.out.println("Github");
+		System.out.println("Github!!");
 	}
 }
